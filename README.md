@@ -26,10 +26,7 @@ Self kullanım senaryoları (Python OOP, sınıf yapıları)
 
 🌐 Bana Ulaşın
 www.linkedin.com/in/halil-başpınar-0a7478384
-### 🛠️ Teknolojiler
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-2C2C2C?style=for-the-badge)
 
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Python;Raspberry+Pi;OpenCV;Flask;Proteus" />
+</p>
