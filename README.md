@@ -1,16 +1,28 @@
-## Hi there 👋
+👋 Merhaba, Ben Halil
 
-<!--
-**halilbsp/halilbsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Python Geliştiricisi | Raspberry Pi & IoT | Görüntü İşleme | Flask
 
-Here are some ideas to get you started:
+Merhaba! Ben Halil, Python ağırlıklı çalışan, aynı zamanda donanım tabanlı projelerle ilgilenen bir geliştiriciyim. Raspberry Pi, Proteus benzetimleri, görüntü işleme ve web tabanlı uygulamalarda deneyimliyim.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧰 Kullandığım Teknolojiler & Alanlar
+
+🔹 Programlama Dilleri
+
+Python
+
+🔹 Donanım & Simülasyon
+
+Raspberry Pi 3
+
+Proteus (Devre tasarımı ve simülasyon)
+
+🔹 Kütüphaneler / Frameworkler
+
+OpenCV (Görüntü işleme)
+
+Flask (Web uygulamaları)
+
+Self kullanım senaryoları (Python OOP, sınıf yapıları)
+
+🌐 Bana Ulaşın
+www.linkedin.com/in/halil-başpınar-0a7478384
