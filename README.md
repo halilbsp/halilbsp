@@ -26,5 +26,13 @@ Self kullanım senaryoları (Python OOP, sınıf yapıları)
 
 🌐 Bana Ulaşın
 www.linkedin.com/in/halil-başpınar-0a7478384
+### 🧰 Yeteneklerim
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=halilbsp&layout=compact&theme=tokyonight)
+| Teknoloji | Açıklama |
+|-----------|----------|
+| Python    | Backend geliştirme, OOP, veri işleme |
+| Raspberry Pi | IoT projeleri ve sensör entegrasyonu |
+| OpenCV    | Görüntü işleme ve analiz |
+| Flask     | Web uygulamaları geliştirme |
+| Proteus   | Devre tasarımı ve simülasyon |
+
