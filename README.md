@@ -27,6 +27,4 @@ Self kullanım senaryoları (Python OOP, sınıf yapıları)
 🌐 Bana Ulaşın
 www.linkedin.com/in/halil-başpınar-0a7478384
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Python;Raspberry+Pi;OpenCV;Flask;Proteus" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=halilbsp&layout=compact&theme=tokyonight)
