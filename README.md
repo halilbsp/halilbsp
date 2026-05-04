@@ -29,7 +29,7 @@ Gerçek iş problemlerine sürdürülebilir, ölçeklenebilir ve temiz mimari (*
 | **Backend** | FastAPI (Python), ASP.NET Core (C#), REST API, JWT ⚡ |
 | **Mimari** | Modular Monolith, Multi-Tenant Design, Clean Architecture 🏗️ |
 | **Veritabanı & ORM** | PostgreSQL, SQLAlchemy, Entity Framework Core 📊 |
-| **DevOps & Tooling** | Docker, Git, CI/CD, Uvicorn 🐳 |
+| **DevOps & Tooling** | Docker, Git, Uvicorn 🐳 |
 
 ---
 
